@@ -45,7 +45,7 @@ categories: [angular, javascript, Uncategorized]
 
 <p>I find this to be super important for a project. If the team cannot find the files they need to work on quickly, that needs to change. I've been on projects where this has been an issue and it wastes time.</p>
 
-<p>Locating code needs to be untuitive, simple and fast. You may not know the file name or where its related files are, so putting them in the most intuitive locations and near each other saves a ton of time.</p>
+<p>Locating code needs to be intuitive, simple and fast. You may not know the file name or where its related files are, so putting them in the most intuitive locations and near each other saves a ton of time.</p>
 
 <h4>Identify</h4>
 
